@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+TAS:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&family=Playwrite+AU+TAS:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.logo_rosa{
+    position: absolute;
+    margin-left: 700px;
+}
+.navbar_web{
+    width: 100%;
+    height: 60px;
+    background: #f0c2c6;
+}   
+.menu_list{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-left: 800px;
+    width: 600px;
+}
+
+.list_item{
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 15px;
+}
+.anhweb1{
+    display: flex;
+
+}
+.background_size_image {
+    width: 100%;
+    height: 95vh;
+}
+
+.video_kombucha {
+    width: 372px;
+    position: absolute;
+    z-index: 10;
+    top: 60px;
+    left: 200px;
+    border-radius: 50%;
+}
+
+.boreder_wave_cury {
+    width: 100%;
+    height: 95vh;
+    background-color: #f0c2c6;
+    position: absolute;
+    z-index: 0;
+}
+
+.pink_pong {
+    width: 50%;
+    height: 500px;
+}
+.gioithieu_bucha{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    padding-top: 200px;
+    margin-left: 200px;
+}
+.gioithieu_bucha2{
+    font-family: "Montserrat", sans-serif;
+    margin-top: 300px;
+    margin-left: 150px;
+}
+.gioithieu_bucha3{
+    font-family: "Montserrat", sans-serif;
+    margin-left:150px;
+}
+.gioithieu_bucha4{
+    font-family: "Montserrat", sans-serif;
+    margin-left: 150px;
+
+}
+.gioithieu_bucha5{
+    font-family: "Montserrat", sans-serif;
+    margin-left: 150px;
+}
+.hinh_trungco{
+    right: 2px;
+    display: none;
+}
+
+.anh_trung_co {
+    z-index: -10;
+    height: 760px;
+    top: 1000px;
+}
+.lichsu_tieude{
+    font-family: "Anton SC", sans-serif;
+    position: absolute;
+    top: 1400px;
+    left: 600px;
+    font-size: 100px;
+    color: aliceblue ;
+    z-index: 10;
+}
+
+.anhweb2 {
+    background-image: url('./trungco2.jpg');
+    height: 900px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.lichsu_tieude2{
+    font-family: "Anton SC", sans-serif;
+    position: absolute;
+    top: 1550px;
+    left: 620px;
+    font-size: 50px;
+    color: aliceblue ;
+    z-index: 10;
+}
+.anhlichsutra{
+    margin-left: 850px;
+}
+.lichsu_bucha{
+    position: absolute;
+    top: 2200px;
+    left: 0px;
+    
+}
+.lichsu_gt{
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    margin-left: 200px;
+}
+.gt_lichsu{
+    font-family: Montserrat, sans-serif;
+    margin-top: 300px;
+}
+.gt_lichsu2{
+    font-family: Montserrat, sans-serif;
+    margin-top: 200px;
+}
+.gt_lichsu3{
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lichsu4{
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lichsu5{
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lichsu6{
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lichsu7{
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.anhlichsutra2_ch{
+    margin-left: 0px;
+    margin-top: 80px;
+}
+.tieude_lsphattrien{
+    top: 410px;
+    position: absolute;
+    left: 950px;
+    width: 300px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+}
+
+.tieu_lichsu_tradao {
+    margin-left: 100px;
+}
+.gt_lsphattrien{
+    top: 460px;
+    position: absolute;
+    width: 500px;
+    left: 850px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lsphattrien2{
+    top: 530px;
+    position: absolute;
+    width: 500px;
+    left: 850px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lsphattrien3{
+    top: 590px;
+    position: absolute;
+    width: 500px;
+    left: 850px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lsphattrien4{
+    top: 640px;
+    position: absolute;
+    width: 500px;
+    left: 850px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_lsphattrien5{
+    top: 690px;
+    position: absolute;
+    width: 500px;
+    left: 850px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.anhkombu_nn{
+    left: 850px;
+    position: absolute;
+}
+.td_kombuchann{
+    top: 70px;
+    position: absolute;
+    right: 1000px;
+    width: 350px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+}
+.gt_kombunn{
+    top: 120px;
+    position: absolute;
+    right: 1000px;
+    width: 500px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_kombunn2{
+    top: 170px;
+    position: absolute;
+    right: 1000px;
+    width: 500px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_kombunn3{
+    top: 220px;
+    position: absolute;
+    right: 850px;
+    width: 650px;
+    font-family: Montserrat, sans-serif;
+    list-style: circle;
+}
+.gt_kombunn4{
+    top: 280px;
+    position: absolute;
+    right: 850px;
+    width: 650px;
+    font-family: Montserrat, sans-serif;
+}
